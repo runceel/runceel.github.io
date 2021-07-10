@@ -55,7 +55,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'ReactivePropet_511x511.png',
+    img: 'ReactivePropertyIcon_511x511.png',
     title: 'ReactiveProperty',
     info: 'ReactiveProperty provides MVVM and asynchronous support features under Reactive Extensions. Target framework is .NET Standard 2.0. It is downloaded 753K+.',
     info2: 'I\'m one of main contributors for the product.',

@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Kazuki Ota',
-  subtitle: 'I\'m a C# developer',
+  subtitle: 'I\'m a C# developer.',
   cta: '',
 };
 
@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile6.jpg',
   paragraphOne: 'I\'m Kazuki Ota who is working at Microsoft Japan. And I love programming to use C#.',
   paragraphTwo: 'Writing tech articles are really interesting for me. My blogs are 2500+ tech articles. If you feel interesting, then please visit my blogs. The link is following section.',
-  paragraphThree: 'I love gaming too. SmashBros and Monster Hunter are awesome games for me. I have played those games 2000+ hours. On SmashBros, I\'m using Link as main character.',
+  paragraphThree: 'I love gaming too. SmashBros and Monster Hunter are awesome games for me. I have played those games 2000+ hours. On SmashBros, I\'m using Link as a main character.',
   resume: '', // if no resume, the button will not show up
 };
 
